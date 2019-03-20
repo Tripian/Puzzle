@@ -1,0 +1,9 @@
+C:\Users\Alp Eren SUKAS\source\repos\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Alp Eren SUKAS\source\repos\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Alp Eren SUKAS\source\repos\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Alp Eren SUKAS\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+C:\Users\Alp Eren SUKAS\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Alp Eren SUKAS\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\Alp Eren SUKAS\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Alp Eren SUKAS\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Alp Eren SUKAS\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
